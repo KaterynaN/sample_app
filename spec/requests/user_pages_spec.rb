@@ -1,6 +1,7 @@
 require 'rails_helper'
 require 'support/utilites'
 
+
 describe "User pages" do
 
   subject { page }
